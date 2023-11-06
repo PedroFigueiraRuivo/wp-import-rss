@@ -1,8 +1,8 @@
 <?php
 /*
- * Plugin Name:       httFox - cbn - Import RSS
+ * Plugin Name:       httFox - Import RSS
  * Plugin URI:        https://httfox.com/products/wordpress/plugins/import-rss-feeds/
- * Description:       Plugin personalizado para a importação do RSS. Caso precise alterar, edite os arquivos dele
+ * Description:       Plugin personalizado para a importação do RSS.
  * Version:           0.1
  * Requires at least: 5.2
  * Requires PHP:      7.4
